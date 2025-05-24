@@ -397,7 +397,7 @@ Parse error: syntax error, unexpected identifier "ING", expecting "]" in example
 
     <simpara>
      To avoid this problem, it is safe to follow the simple rule:
-     <emphasis>do not choose as a closing identifier if it appears in the body
+     <emphasis>do not choose a closing identifier that appears in the body
      of the text</emphasis>.
     </simpara>
 
